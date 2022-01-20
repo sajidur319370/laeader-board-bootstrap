@@ -1,0 +1,15 @@
+/*///////////////////////////////////////////
+         NAVBAR
+//////////////////////////////////////////// */
+
+body {
+    background-color: #F3F1FF;
+}
+
+.navbar-nav {
+    align-items: center;
+}
+
+.players {
+    margin-top: 10rem;
+}
